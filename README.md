@@ -3,9 +3,11 @@
 This repository contains the code and documentation for the project on predicting Yes Bank's stock closing prices using supervised machine learning techniques, specifically Lasso Regression with GridSearchCV.
 
 **Introduction**
+
 The goal of this project is to develop a predictive model to forecast the closing prices of Yes Bank stocks. This involves data preprocessing, feature engineering, model training, and evaluation. The model aims to assist traders and investors by providing insights into future stock price movements.
 
 **Dataset**
+
 The dataset used in this project includes historical stock prices of Yes Bank. The data contains columns such as Date, Open, High, Low, Close, Volume, and other relevant financial indicators.
 
 **Methodology**
@@ -44,9 +46,11 @@ The dataset used in this project includes historical stock prices of Yes Bank. T
 - Plot of actual vs. predicted closing prices.
 
 **Conclusion**
+
 The Lasso Regression model with GridSearchCV has shown promising results in predicting Yes Bank's stock closing prices. The model's high R² score and low RMSE indicate good predictive power, making it a useful tool for investors.
 
 **Future Work**
+
 - Explore additional features to further improve model accuracy.
 - Experiment with other machine learning algorithms such as Random Forest, XGBoost, and Neural Networks.
 - Incorporate more recent data to keep the model up-to-date.
