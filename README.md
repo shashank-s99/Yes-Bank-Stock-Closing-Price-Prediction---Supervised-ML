@@ -1,5 +1,9 @@
 # Yes-Bank-Stock-Closing-Price-Prediction---Supervised-ML
 
+![yes_bank3](https://github.com/user-attachments/assets/6d056d5a-3d7f-423a-9d61-6e84fcd32f2b)
+
+
+
 This repository contains the code and documentation for the project on predicting Yes Bank's stock closing prices using supervised machine learning techniques, specifically Lasso Regression with GridSearchCV.
 
 **Introduction**
