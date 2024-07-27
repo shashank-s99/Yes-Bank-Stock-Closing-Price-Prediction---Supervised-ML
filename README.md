@@ -1,6 +1,7 @@
 # Yes-Bank-Stock-Closing-Price-Prediction---Supervised-ML
 
-![yes_bank3](https://github.com/user-attachments/assets/6d056d5a-3d7f-423a-9d61-6e84fcd32f2b)
+![Yes_Bank_SVG_Logo svg](https://github.com/user-attachments/assets/744705bb-cbac-4705-9b3d-1068378f3a6c)
+
 
 
 
